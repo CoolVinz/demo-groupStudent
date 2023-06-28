@@ -72,12 +72,3 @@ function Students(props) {
   
   export default Students
   
-
-  // showList.map((st) => (
-  //   <div className="student-item" key={st.id}>
-  //   <img src= {`${avatar}${st.id}`} className="student-avatar"/>
-  //   <p>id :{st.id}</p>
-  //   <p>name: {st.name}</p>
-  //    </div>
-
-  // ))}
