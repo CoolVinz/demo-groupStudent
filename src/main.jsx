@@ -4,10 +4,13 @@ import ReactDOM from 'react-dom/client'
 import './index.css'
 import Students from './student'
 
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     
     <Students num={27} numOfStdGroup={4}/>
+    
+    
     
   </React.StrictMode>
 )
